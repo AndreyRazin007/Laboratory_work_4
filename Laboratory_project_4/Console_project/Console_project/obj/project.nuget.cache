@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "9EGj+LvwUAeXuyGPJWkzVk9Uw/BBTd1UfqjHkLuEO7ey2Pc7KBculfL303qwKyWgGcnxIVdpZNM8nWlDkx+rBA==",
+  "success": true,
+  "projectFilePath": "D:\\Колледж\\Инструментальные_средства_разработки_ПО\\Лабораторная_работа_4\\Laboratory_project_4\\Console_project\\Console_project\\Console_project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Simpl\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.0\\microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512",
+    "C:\\Users\\Simpl\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.0\\microsoft.net.illink.tasks.8.0.0.nupkg.sha512",
+    "C:\\Users\\Simpl\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.0\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
